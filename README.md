@@ -18,11 +18,9 @@ This project uses Flutter SDK and Dark as a code language. The IDE chooses Andro
 
 - Then run the project 
 
-- Tow screenshots for the app are shown here:
+- A screenshot for the app is shown here:
 
   ![screenshot1](https://github.com/ZifeiRen/test/blob/master/img/WechatIMG21.jpeg)
-
-  ![screenshot2](https://github.com/ZifeiRen/test/blob/master/img/WechatIMG22.jpeg)
 
 ## Code
 
